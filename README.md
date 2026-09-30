@@ -15,6 +15,8 @@ HI Notes began as the sticky notes of [TimePeace](https://github.com/PythonDeuce
 
 Every feature works on Windows, macOS and Linux; the system's own reader, voice and screen picker are used where they differ.
 
+Reminders repeat ("every Monday 9am", or Repeat on the Remind me page). Ctrl+= and Ctrl+- size a note's text. Copy link gives a `note:` link for an event in Me Time Planner. ? in the hub shows every key.
+
 ## Run from source
 
     pip install -r desktop/requirements.txt
